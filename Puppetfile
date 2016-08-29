@@ -35,6 +35,9 @@ github "boxen", "3.11.1"
 
 github "module_data", "0.0.4", :repo => "ripienaar/puppet-module-data"
 
+# custom developer's manifests
+dev "buritica"
+
 # Core modules for a basic development environment. You can replace
 # some/most of these if you want, but it's not recommended.
 
