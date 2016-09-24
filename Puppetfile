@@ -65,6 +65,7 @@ github "xquartz",     "1.2.1"
 # https://github.com/boxen.
 github "zsh",     "1.0.1"
 github "osx",     "2.8.0"
+github "mongodb",     "1.5.0"
 # github "elasticsearch", "2.8.0"
 # github "mysql",         "2.0.1"
 # github "postgresql",  "4.0.1"
